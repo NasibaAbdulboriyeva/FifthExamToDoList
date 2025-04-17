@@ -1,0 +1,2 @@
+SQL ISHLAMADI USTOZ
+SP siz qildim alohida class ochib with query qb yozdim
